@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">mindorks-android-course-notes-app</string>
+    <string name="title_activity_my_notes">MyNotesActivity</string>
+    <string name="full_name">Full Name</string>
+    <string name="user_name">User Name</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+    <string name="title">Title</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="title_is">Title is:</string>
+    <string name="description_is">Description is:</string>
+    <string name="notes_added_successfully">Notes Added Successfully</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">logo</string>
+    <string name="mindorks_notes_app">Mindorks Notes App</string>
+    <string name="your_own_todo_notes_app">Your Own Todo Notes App</string>
+    <string name="create_your_own_todo_for_the_day">Create your own Todo for the day</string>
+    <string name="next">Next</string>
+    <string name="orgnaise_it_with_perfection">Orgnaise it with perfection</string>
+    <string name="add_notes_with_images_either_from_camera_or_your_gallery">Add notes with Images either from camera or your gallery</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+    <string name="plan_and_record_your_todo_on_your_phone">Plan and record your todo on your phone</string>
+    <string name="select_image">Select Image</string>
+    <string name="empty_string_error">Fields cannot be empty</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="select_picker">Select Picker</string>
+</resources>
